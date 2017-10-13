@@ -45,3 +45,23 @@ header {
   text-decoration: none;
   color:white;
 }
+
+#page_content {
+  padding:15px;
+  background-color:white;
+}
+
+h2, h3 {
+  color:#1fabe5;
+}
+
+#linky {
+  color:#1fabe5;
+}
+
+section {
+  border-bottom:solid;
+  border-color:#eee;
+  border-width:2px;
+  padding-bottom:20px;
+}
