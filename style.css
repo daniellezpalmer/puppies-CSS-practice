@@ -65,3 +65,32 @@ section {
   border-width:2px;
   padding-bottom:20px;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  border:solid;
+  border-color: black;
+  border-width:1px;
+  padding:10px;
+  color:white;
+  font-weight: lighter;
+}
+
+thead {
+  background-color:#1fabe5;
+}
+
+td {
+  border:solid;
+  border-color:#1fabe5;
+  border-width:1px;
+  padding:5px;
+}
+
+img {
+  height:60px;
+  width:60px;
+}
