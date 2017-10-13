@@ -4,7 +4,7 @@
 Style premade HTML using CSS according to styled screenshot.
 
 ## TODO
-- []
+- [ ] Use CSS to match mockup
 
 ## Challenges
 

@@ -12,3 +12,36 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+
+body {
+  background-color: grey;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+#wholeShebang {
+  border: solid;
+  border-width: 2px;
+  border-color:#ffd24a;
+  border-radius:2px;
+}
+
+header {
+  background-color:#ff8523;
+  height:120px;
+  padding:15px;
+}
+
+#logo {
+  margin-bottom: 15px;
+}
+
+.mnl {
+  border:solid;
+  border-color:white;
+  border-width: 1px;
+  border-radius:2px;
+  padding:10px 30px 10px 30px;
+  text-decoration: none;
+  color:white;
+}
