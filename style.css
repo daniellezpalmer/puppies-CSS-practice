@@ -61,7 +61,7 @@ h2, h3 {
 
 section {
   border-bottom:solid;
-  border-color:#eee;
+  border-color:#dddddd;
   border-width:2px;
   padding-bottom:20px;
 }
@@ -90,7 +90,46 @@ td {
   padding:5px;
 }
 
-img {
+td img {
   height:60px;
   width:60px;
+}
+
+form {
+  background-color: #dddddd;
+  padding:20px;
+  border-radius:5px;
+}
+
+.name {
+  background-color: #ff8523;
+  padding:15px;
+  color:white;
+  border-radius:5px;
+  margin-bottom:20px;
+}
+
+input {
+  padding:10px;
+}
+
+.city_container {
+  margin:10px;
+}
+
+#city {
+
+}
+
+textarea {
+  border-color:#1fabe5;
+  width:100%;
+  height:50%;
+}
+
+#submit_button {
+  background-color:#1fabe5;
+  border:none;
+  color:white;
+  border-radius:4px;
 }
